@@ -19,3 +19,11 @@ As a BS Electrical Engineering graduate from NUST, I combine strong engineering 
 🐍 Python Application Development
 ⚡ Prompt Engineering
 🚀 AI Deployment & Automation
+
+🌟 Featured Projects
+🚀 GPU_Scout – Intelligent RAG-powered GPU recommendation assistant with persistent user memory
+🤖 LLM-powered AI Agents
+👁️ Parking Slot Detection System using Computer Vision
+📈 E-Commerce Recommendation System
+🚗 Sensor-based Vehicle Classification using Machine Learning
+📚 Retrieval-Augmented Generation Applications
